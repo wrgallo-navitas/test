@@ -1,3 +1,4 @@
+{
   "name": "@owenthekid/sudo-flix",
   "appName": "Sudo-Flix TV",
   "version": "0.0.1",
@@ -9,4 +10,5 @@
   "keys": ["MediaPlayPause"],
   "repository": {
     "url": "https://github.com/owen-the-kid/sudo-flix-tv"
-  },
+  }
+}
