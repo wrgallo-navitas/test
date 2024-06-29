@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "description": "SudoFlix provides a one-stop solution for all your on-demand streaming needs. Browse and watch your favorite movies, TV shows and anime from a wide range of streaming services including Netflix, Hulu, Amazon Prime Video, Disney+, Crunchyroll, Funimation, Hidive, and more.",
   "packageType": "mods",
-  "websiteURL": "https://www.xbox.com/en-GB/play",
-  "main": "dist/userscript.js",
+  "websiteURL": "https://sudo-flix.lol/",
+  "main": "mods/userscript.js",
   "author": "Owen Ramaekers",
   "keys": ["MediaPlayPause"],
   "repository": {
