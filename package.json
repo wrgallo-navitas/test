@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "SudoFlix",
   "packageType": "mods",
-  "websiteURL": "https://movies.levrx.lol/",
+  "websiteURL": "https://pseudo-flix.pro/",
   "main": "mods/userscript.js",
   "author": "Owen Ramaekers",
   "keys": [
