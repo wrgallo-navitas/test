@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "SudoFlix",
   "packageType": "mods",
-  "websiteURL": "https://pseudo-flix.pro/",
+  "websiteURL": "https://movie.zzylos.lol/",
   "main": "mods/userscript.js",
   "author": "Owen Ramaekers",
   "keys": [
