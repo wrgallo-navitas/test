@@ -2,9 +2,9 @@
   "name": "@owenthekid/sudo-flix",
   "appName": "Sudo-Flix TV",
   "version": "0.0.1",
-  "description": "SudoFlix provides a one-stop solution for all your on-demand streaming needs. Browse and watch your favorite movies, TV shows and anime from a wide range of streaming services including Netflix, Hulu, Amazon Prime Video, Disney+, Crunchyroll, Funimation, Hidive, and more.",
+  "description": "SudoFlix",
   "packageType": "mods",
-  "websiteURL": "https://sudo-flix.lol/",
+  "websiteURL": "https://movies.levrx.lol/",
   "main": "mods/userscript.js",
   "author": "Owen Ramaekers",
   "keys": [
@@ -18,6 +18,6 @@
     "MediaFastForward"
   ],
   "repository": {
-    "url": "https://github.com/owen-the-kid/sudo-flix-tv"
+    "url": "https://github.com/wrgallo-navitas/test_sflix"
   }
 }
