@@ -2,9 +2,9 @@
   "name": "@owenthekid/sudo-flix",
   "appName": "Sudo-Flix TV",
   "version": "0.0.1",
-  "description": "SudoFlix [Test 0]",
+  "description": "SudoFlix [Test 1]",
   "packageType": "mods",
-  "websiteURL": "https://movie.zzylos.lol/",
+  "websiteURL": "https://movie.zzylos.lol",
   "main": "mods/userscript.js",
   "author": "Owen Ramaekers",
   "keys": [
